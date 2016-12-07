@@ -1,4 +1,4 @@
 # CheatSheetPython
 Helpers to install python in MAC and some other quick cheatsheet. 
-To install python 3.5+ in MAC: 
+#To install python 3.5+ in MAC: 
 https://solarianprogrammer.com/2016/10/04/install-python-numpy-scipy-matplotlib-macos/
